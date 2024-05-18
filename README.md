@@ -7,7 +7,7 @@ Eu sou Levy Medeiros, um entusiasta da tecnologia apaixonado por programação e
 - **Front-End:** HTML, CSS
 - **Ferramentas de Desenvolvimento:** VS Code, Intellij IDEA
 ## Contato 📫
-- [LinkedIn](https://www.linkedin.com/in/levy-mello-pereira-fernandes-medeiros-41a117217/](https://www.linkedin.com/in/matheus-albuquerque-3b870125a/))
+- [LinkedIn](www.linkedin.com/in/matheus-albuquerque-3b870125a)
 - [E-mail](taftig9@gmail.com)
 ## Meu interesse 🔭
 Estou empenhado em buscar a excelência técnica, contribuir para projetos desafiadores e colaborar com colegas apaixonados por tecnologia. Vamos juntos explorar novos horizontes e impulsionar o desenvolvimento tecnológico!
