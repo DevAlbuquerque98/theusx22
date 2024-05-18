@@ -1,8 +1,7 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Bem-vindo ao meu perfil do GitHub!👋
+Eu sou Levy Medeiros, um entusiasta da tecnologia apaixonado por programação e inovação. Com formação em Desenvolvedor Front-End e Back-End, Técnico de Informática, e Graduação em Relações Internacionais pela Universidade Católica de Brasília, minha jornada profissional tem sido marcada pelo comprometimento com a excelência técnica. Durante minha carreira como Diretor de Tecnologia na instituição 'Pedagoginga', desenvolvi habilidades de liderança e resolução de problemas em um ambiente dinâmico. 
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
-
+## Habilidades 🌱
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,9 +12,12 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
-  ##
+## Contato 📫
  
 <div>
   <a href = "mailto:taftig9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-albuquerque-3b870125a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+## Meu interesse 🔭
+Estou empenhado em buscar a excelência técnica, contribuir para projetos desafiadores e colaborar com colegas apaixonados por tecnologia. Vamos juntos explorar novos horizontes e impulsionar o desenvolvimento tecnológico!
