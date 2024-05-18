@@ -1,5 +1,5 @@
 ## Bem-vindo ao meu perfil do GitHub!👋
-Eu sou Matheus Albuquerque, um apaixonado por tecnologia e programação. Especializado em Desenvolvimento Back-End, minha carreira é guiada pela busca pela excelência técnica. Atualmente, atuo na SCM Engenharia de Telecomunicações e integro a equipe da 'Pedagoginga' como programador de Back-End. 
+Eu sou Matheus Albuquerque, um apaixonado por tecnologia e programação. Especializado em Desenvolvimento Back-End, minha carreira é guiada pela busca pela excelência técnica. Atualmente, atuo na SCM Engenharia de Telecomunicações e integro a equipe da 'Pedagoginga/Gingatech' como programador de Back-End. 
 
 ## Habilidades 🌱
 <div style="display: inline_block"><br>
